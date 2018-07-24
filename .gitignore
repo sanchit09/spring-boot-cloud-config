@@ -1,0 +1,14 @@
+.DS_STORE
+*.log
+node_modules
+dist
+coverage
+target
+.mvn
+.settings
+
+
+.project
+.classpath
+bin
+.idea/
